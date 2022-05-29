@@ -11,5 +11,5 @@ Knaspack problem resuelto mediante algoritmo codicioso.
 
 
 <p align="center">
-  <img src="Img/FOyR.PNG" width="640" title="restricciones">
+  <img src="Images/FOyR.PNG" width="640" title="restricciones">
 </p>

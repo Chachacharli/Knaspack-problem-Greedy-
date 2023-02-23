@@ -1,4 +1,4 @@
-# Knaspack-problem-Greedy-
+# Knapsack-problem-Greedy
 Knaspack problem resuelto mediante algoritmo codicioso. 
 
 # Descripcion del problema.
